@@ -8,7 +8,7 @@ import javax.persistence.Table;
 /**
  * 
  * @类说明: 用户实体类
- * @author 
+ * @author
  * @date 2014年8月9日
  */
 @Entity
