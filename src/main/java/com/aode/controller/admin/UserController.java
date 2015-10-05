@@ -16,7 +16,7 @@ import javax.servlet.http.HttpSession;
 import java.util.Map;
 
 /**
- * Created by 林启聪 on 2015/5/16.
+ * Created by . on 2015/5/16.
  */
 @Controller("adminUserController")
 @RequestMapping("admin/user")
