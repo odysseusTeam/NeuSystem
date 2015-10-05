@@ -16,7 +16,11 @@ import javax.servlet.http.HttpSession;
 import java.util.Map;
 
 /**
+<<<<<<< HEAD
  * Created by . on 2015/5/16.
+=======
+ * Created by hbz on 2015/5/16.
+>>>>>>> hbz
  */
 @Controller("adminUserController")
 @RequestMapping("admin/user")
