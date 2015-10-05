@@ -6,7 +6,7 @@ import com.aode.model.User;
 import java.util.Map;
 
 /**
- * Created by lx on 2015/5/15.
+ * Created by lx on 2015/10/03.
  */
 public interface UserService extends  BaseService<User> {
     public User login(User user) ;
