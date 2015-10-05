@@ -6,7 +6,7 @@ import  com.aode.util.Reflections;
 
 /**
  * controller支持类
- * Created by 林启聪 on 2015/5/15.
+ * Created by liang
  */
 public abstract class BaseAdminController<T>{
     protected Class<T> entityClass = Reflections.getClassGenricType(getClass());//获取泛型
