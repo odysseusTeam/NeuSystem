@@ -9,7 +9,7 @@ import javax.persistence.Table;
  * 
  * @类说明: 用户实体类
  * @author jp
- * @date 2015年10月9
+ * @date 2015年10月
  */
 @Entity
 @Table(name="user")
