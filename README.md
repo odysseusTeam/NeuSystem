@@ -1,4 +1,2 @@
 # NeuSystem
-The NeuSystem created by odysseusTeam
-
-sql.password £º123456
+springMVC+hibernate+spring+mavenæ¨¡æ¿
